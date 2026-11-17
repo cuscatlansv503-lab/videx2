@@ -1,26 +1,7 @@
 {
   "ok": true,
-  "now": 1794890832,
+  "now": 1794892143,
   "events": [
-    {
-      "token": "https://videxhd.sbs/app/api/event?t=f51ae07ba9c30e39ac17",
-      "title": "Baltimore Ravens vs Los Angeles Chargers",
-      "description": "",
-      "category": "americano",
-      "gate": true,
-      "status": "live",
-      "start": 1794877200,
-      "end": 1794891600,
-      "poster": "https://img.lif.lat/posters/horizontal/baltimore-ravens-los-angeles-chargers-nfl.jpg",
-      "hero": "https://img.lif.lat/posters/horizontal/baltimore-ravens-los-angeles-chargers-nfl.jpg",
-      "accent": "#7c3aed",
-      "views": 19,
-      "posterV": "https://img.lif.lat/posters/vertical/baltimore-ravens-los-angeles-chargers-nfl.jpg",
-      "posterS": "https://img.lif.lat/posters/cuadrado/baltimore-ravens-los-angeles-chargers-nfl.jpg",
-      "ratio": "",
-      "radius": "",
-      "tags": ""
-    },
     {
       "token": "https://videxhd.sbs/app/api/event?t=4d560c1524ecf18fec07",
       "title": "Utah Mammoth vs Vancouver Canucks",
@@ -36,6 +17,25 @@
       "views": 3,
       "posterV": "https://img.lif.lat/posters/vertical/utah-mammoth-vancouver-canucks-nhl.jpg",
       "posterS": "https://img.lif.lat/posters/cuadrado/utah-mammoth-vancouver-canucks-nhl.jpg",
+      "ratio": "",
+      "radius": "",
+      "tags": ""
+    },
+    {
+      "token": "https://videxhd.sbs/app/api/event?t=f51ae07ba9c30e39ac17",
+      "title": "Baltimore Ravens vs Los Angeles Chargers",
+      "description": "",
+      "category": "americano",
+      "gate": true,
+      "status": "ended",
+      "start": 1794877200,
+      "end": 1794891600,
+      "poster": "https://img.lif.lat/posters/horizontal/baltimore-ravens-los-angeles-chargers-nfl.jpg",
+      "hero": "https://img.lif.lat/posters/horizontal/baltimore-ravens-los-angeles-chargers-nfl.jpg",
+      "accent": "#7c3aed",
+      "views": 19,
+      "posterV": "https://img.lif.lat/posters/vertical/baltimore-ravens-los-angeles-chargers-nfl.jpg",
+      "posterS": "https://img.lif.lat/posters/cuadrado/baltimore-ravens-los-angeles-chargers-nfl.jpg",
       "ratio": "",
       "radius": "",
       "tags": ""
